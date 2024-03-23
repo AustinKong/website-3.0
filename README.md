@@ -1,6 +1,6 @@
 # Website 3.0
 <!--A simple catchy description-->
-Simple portfoliio website version 3.0 (active)!
+Simple portfoliio website version 3.0 (archived)!
 ## About
 <!--An image to show your project-->
 ![Image](Image.png)
